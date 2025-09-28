@@ -151,7 +151,7 @@ Minimum 4GB RAM (8GB recommended for large visualizations)
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/yourusername/Movies-Rating-Analysis.git
+git clone https://github.com/ShreyashPatil530/Movies-Rating-Analysis-Project/tree/main
 cd Movies-Rating-Analysis
 ```
 
@@ -499,7 +499,7 @@ We welcome contributions from film industry professionals, data scientists, movi
 - 🐙 GitHub: https://github.com/ShreyashPatil530
 
 ### Project Links
-- **GitHub Repository**: [https://github.com/yourusername/Movies-Rating-Analysis](https://github.com/yourusername/Movies-Rating-Analysis)
+- **GitHub Repository**: https://github.com/ShreyashPatil530/Movies-Rating-Analysis-Project/tree/main
 - **Live Dashboard**: See the providing screanshort
 - **Documentation Site**: View on github
 
